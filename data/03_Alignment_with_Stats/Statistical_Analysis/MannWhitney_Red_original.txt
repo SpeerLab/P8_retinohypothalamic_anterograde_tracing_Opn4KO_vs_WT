@@ -1,0 +1,25 @@
+Mann-Whitney U Test Results - Red (original)
+================================================
+
+Test: Mann-Whitney U (Wilcoxon rank-sum) test
+Comparison: Per-animal mean intensities for each half
+
+Sample sizes (biological replicates): WT N=10, KO N=10
+
+NEGATIVE HALF (x < 0, ipsilateral):
+  WT: Mean=35.7565, SD=5.3447
+  KO: Mean=28.8864, SD=3.7151
+  U statistic: 143.0
+  p-value: 0.004586
+  Cohen's d: 1.4927
+  Post-hoc power: 0.8840
+  Significant (p<0.05 & power>0.8): true
+
+POSITIVE HALF (x > 0, contralateral):
+  WT: Mean=34.2642, SD=5.2723
+  KO: Mean=36.8996, SD=4.3962
+  U statistic: 85.0
+  p-value: 0.140465
+  Cohen's d: 0.5429
+  Post-hoc power: 0.2099
+  Significant (p<0.05 & power>0.8): false
